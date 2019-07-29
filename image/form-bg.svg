@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="588px" viewBox="0 0 1920 588" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 44</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8C30FB" offset="0%"></stop>
+            <stop stop-color="#7879FC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1920" height="588"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="因特驰营销页" transform="translate(0.000000, -6872.000000)">
+            <g id="Group-44" transform="translate(0.000000, 6872.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Rectangle-4" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <rect id="Rectangle-16" fill="#8E5CFC" opacity="0.400000006" mask="url(#mask-3)" transform="translate(442.500000, 261.281973) rotate(-315.000000) translate(-442.500000, -261.281973) " x="292" y="-237.436822" width="301" height="997.437589"></rect>
+                <polygon id="Rectangle-16" fill="#FFFFFF" opacity="0.0512834836" mask="url(#mask-3)" transform="translate(1746.500000, 397.250067) rotate(-315.000000) translate(-1746.500000, -397.250067) " points="1444 -101.468727 2049 -101.468727 2049 895.968861 1444 895.968861"></polygon>
+                <rect id="Rectangle-16" fill="#FFFFFF" opacity="0.0612165193" mask="url(#mask-3)" transform="translate(1820.000000, -152.710434) rotate(-315.000000) translate(-1820.000000, 152.710434) " x="1448" y="-651.429229" width="744" height="997.437589"></rect>
+                <polygon id="Rectangle-16" fill="#8E5CFC" opacity="0.400000006" mask="url(#mask-3)" transform="translate(185.500000, 357.677263) rotate(-45.000000) translate(-185.500000, -357.677263) " points="35 -141.041531 336 -141.041531 336 856.396058 35 856.396058"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
